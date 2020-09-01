@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is ECE5-EC55
+
+ Directory of C:\Users\LeoKi\Desktop\git project
+
+01/09/2020  18:45    <DIR>          .
+01/09/2020  18:45    <DIR>          ..
+01/09/2020  18:45                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  862,916,534,272 bytes free
